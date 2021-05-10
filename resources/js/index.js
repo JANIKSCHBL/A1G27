@@ -10,6 +10,7 @@ function init() {
     loadWordlistFromJSON(onWordlistAvailable);
 }
 
+//TestYOOO
 function onWordlistAvailable(wordlist) {
     console.log("### WordList received ###");
     // Prints the first 10 entries from the received word list
